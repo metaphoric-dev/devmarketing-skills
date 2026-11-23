@@ -107,13 +107,13 @@ Skills are markdown files that give AI agents specialized knowledge and workflow
 Install into any agent that supports the [Agent Skills](https://agentskills.io/specification) standard, via [skills.sh](https://skills.sh/):
 
 ```bash
-npx skills add jonathimer/devmarketing-skills
+npx skills add metaphoric-dev/devmarketing-skills
 ```
 
 ### Option 2: Claude Code Plugin
 
 ```bash
-claude plugin marketplace add jonathimer/devmarketing-skills
+claude plugin marketplace add metaphoric-dev/devmarketing-skills
 claude plugin install devmarketing-skills@devmarketing
 ```
 
@@ -122,7 +122,7 @@ Plugin skills are namespaced, so invoke them as `/devmarketing-skills:developer-
 ### Option 3: Codex Plugin
 
 ```bash
-codex plugin marketplace add jonathimer/devmarketing-skills
+codex plugin marketplace add metaphoric-dev/devmarketing-skills
 ```
 
 Then run `/plugins` inside `codex`, select `devmarketing-skills`, and choose **Install plugin**.
@@ -130,7 +130,7 @@ Then run `/plugins` inside `codex`, select `devmarketing-skills`, and choose **I
 ### Option 4: Clone and Copy
 
 ```bash
-git clone https://github.com/jonathimer/devmarketing-skills.git
+git clone https://github.com/metaphoric-dev/devmarketing-skills.git
 cp -r devmarketing-skills/skills/* .agents/skills/
 ```
 
@@ -139,7 +139,7 @@ cp -r devmarketing-skills/skills/* .agents/skills/
 Add as a submodule for easy updates:
 
 ```bash
-git submodule add https://github.com/jonathimer/devmarketing-skills.git .agents/devmarketing-skills
+git submodule add https://github.com/metaphoric-dev/devmarketing-skills.git .agents/devmarketing-skills
 ```
 
 Then reference skills from `.agents/devmarketing-skills/skills/`.
@@ -265,8 +265,6 @@ Found a way to improve a skill? Have a new skill to suggest? PRs and issues welc
 3. Follow the skill structure above
 4. Include a README.md with usage examples
 5. Submit a PR
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 
 ---
 
