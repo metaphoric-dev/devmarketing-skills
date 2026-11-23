@@ -20,7 +20,6 @@ devmarketing-skills/
 │       ├── README.md      # Quick overview
 │       └── references/    # Optional supporting docs
 ├── AGENTS.md              # This file
-├── CONTRIBUTING.md
 ├── LICENSE
 └── README.md
 ```

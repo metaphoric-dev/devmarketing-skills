@@ -266,8 +266,6 @@ Found a way to improve a skill? Have a new skill to suggest? PRs and issues welc
 4. Include a README.md with usage examples
 5. Submit a PR
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
-
 ---
 
 ## License
