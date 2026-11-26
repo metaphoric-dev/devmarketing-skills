@@ -390,7 +390,6 @@ If you're judging prizes:
 
 ## Related Skills
 
-- **developer-events**: Broader event strategy context
-- **developer-community-building**: Hackathons as community entry point
+- **community-building**: Hackathons as community entry point
 - **developer-ads**: Promoting presence at hackathons
 - **developer-lead-gen**: Hackathons as top-of-funnel

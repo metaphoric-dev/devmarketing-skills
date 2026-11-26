@@ -434,5 +434,5 @@ Total Spend / Attributed Signups = CPA
 
 - **developer-lead-gen**: Ads driving to free tools/resources
 - **developer-seo**: Organic alongside paid
-- **developer-content-strategy**: Content for landing pages
+- **devrel-content**: Content for landing pages
 - **developer-newsletter**: Building your own newsletter vs sponsoring others

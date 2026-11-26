@@ -285,6 +285,6 @@ Developer content becomes outdated quickly:
 
 ## Related Skills
 
-- **developer-content-strategy**: Overall content planning for developer audiences
+- **devrel-content**: Overall content planning for developer audiences
 - **dev-tool-directory-listings**: Building domain authority through directory presence
 - **developer-lead-gen**: Converting organic traffic into leads

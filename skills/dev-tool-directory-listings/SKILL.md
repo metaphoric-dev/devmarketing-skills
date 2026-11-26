@@ -307,5 +307,4 @@ Not all directories warrant ongoing attention:
 ## Related Skills
 
 - **developer-seo**: Directory listings support overall SEO strategy
-- **github-community-engagement**: Contributing to awesome-lists fits broader GitHub strategy
-- **product-hunt-launch**: Special considerations for Product Hunt specifically
+- **github-presence**: Contributing to awesome-lists fits broader GitHub strategy

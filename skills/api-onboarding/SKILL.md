@@ -458,4 +458,3 @@ Perform this audit quarterly (or after any onboarding changes):
 - **sdk-dx**: SDK that reduces onboarding complexity
 - **developer-sandbox**: The playground developers onboard with
 - **developer-audience-context**: Understanding your onboarding audience
-- **developer-metrics**: Measuring onboarding success

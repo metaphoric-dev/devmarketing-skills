@@ -359,6 +359,6 @@ Accept imperfect data and use multiple signals:
 ## Related Skills
 
 - **developer-seo**: Free tools drive organic traffic
-- **developer-content-strategy**: Ungated content planning
+- **devrel-content**: Ungated content planning
 - **open-source-marketing**: Open source as lead generation
 - **developer-ads**: Paid promotion of free tools

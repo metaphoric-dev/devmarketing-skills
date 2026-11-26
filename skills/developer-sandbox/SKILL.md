@@ -488,5 +488,4 @@ analytics.track('playground_signup_completed');
 - **api-onboarding**: Playground as onboarding tool
 - **docs-as-marketing**: Interactive examples in documentation
 - **sdk-dx**: SDK design that works in playground context
-- **developer-metrics**: Measuring playground effectiveness
 - **developer-audience-context**: Understanding what to demo
