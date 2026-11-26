@@ -393,3 +393,4 @@ If you're judging prizes:
 - **community-building**: Hackathons as community entry point
 - **developer-ads**: Promoting presence at hackathons
 - **developer-lead-gen**: Hackathons as top-of-funnel
+- **developer-audience-context**: Sponsor events your developers attend

@@ -308,3 +308,4 @@ Not all directories warrant ongoing attention:
 
 - **developer-seo**: Directory listings support overall SEO strategy
 - **github-presence**: Contributing to awesome-lists fits broader GitHub strategy
+- **developer-audience-context**: Know which directories your developers trust

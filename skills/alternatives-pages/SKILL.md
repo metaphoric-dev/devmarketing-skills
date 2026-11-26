@@ -364,3 +364,4 @@ Use social listening tools to set up searches for:
 - **competitor-tracking** - Ongoing competitive intelligence
 - **developer-listening** - Understanding developer sentiment
 - **developer-seo** - SEO optimization for technical content
+- **developer-audience-context** - Define the developer persona before writing comparisons
