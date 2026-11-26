@@ -534,3 +534,4 @@ Some user-based pricing:
 - `/devmarketing-skills/skills/free-tier-strategy` - Free tier design
 - `/devmarketing-skills/skills/developer-signup-flow` - Getting to the pricing page
 - `/devmarketing-skills/skills/developer-onboarding` - Demonstrating value before price
+- `/devmarketing-skills/skills/developer-audience-context` - Price for the developers you serve
