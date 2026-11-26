@@ -21,7 +21,7 @@ The best developer pricing is predictable, transparent, and obviously fair. Deve
 
 ## Before You Start
 
-Review the `/devmarketing-skills/skills/free-tier-strategy` skill to understand how free tiers connect to paid pricing. Your pricing model should feel like a natural extension of the free tier, not a completely different experience.
+Review the **developer-audience-context** skill to understand who you are pricing for, then the **free-tier-strategy** skill to connect free tiers to paid pricing. Your pricing model should feel like a natural extension of the free tier, not a completely different experience.
 
 ## Usage Metrics Developers Accept
 
@@ -531,6 +531,7 @@ Some user-based pricing:
 
 ## Related Skills
 
-- `/devmarketing-skills/skills/free-tier-strategy` - Free tier design
-- `/devmarketing-skills/skills/developer-signup-flow` - Getting to the pricing page
-- `/devmarketing-skills/skills/developer-onboarding` - Demonstrating value before price
+- **free-tier-strategy** - Free tier design
+- **developer-signup-flow** - Getting to the pricing page
+- **developer-onboarding** - Demonstrating value before price
+- **developer-audience-context** - Price for the developers you serve

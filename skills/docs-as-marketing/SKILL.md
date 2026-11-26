@@ -382,5 +382,5 @@ Create a documentation web, not documentation silos:
 - **api-onboarding**: Optimize the complete first API call experience
 - **sdk-dx**: Create SDKs that make your docs simpler
 - **developer-sandbox**: Interactive environments that complement docs
-- **technical-content-strategy**: Broader content strategy including docs
+- **devrel-content**: Broader content strategy including docs
 - **developer-audience-context**: Understanding who you're writing for

@@ -535,6 +535,5 @@ The [Product] Team
 
 - **sdk-dx**: SDK versioning and migration
 - **docs-as-marketing**: Changelog as documentation
-- **developer-community**: Community communication channels
-- **developer-metrics**: Measuring changelog engagement
-- **technical-content-strategy**: Changelog as content
+- **community-building**: Community communication channels
+- **devrel-content**: Changelog as content

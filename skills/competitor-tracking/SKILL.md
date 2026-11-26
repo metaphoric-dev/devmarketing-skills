@@ -310,4 +310,4 @@ gh search issues "[competitor]" --limit 50
 
 - **developer-listening** - Broader monitoring beyond just competitors
 - **alternatives-pages** - Turn competitive intelligence into content
-- **positioning** - Differentiate based on competitive insights
+- **developer-audience-context** - Know which developers the competitors serve
